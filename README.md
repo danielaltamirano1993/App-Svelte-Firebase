@@ -66,7 +66,7 @@ npm ejecute dev
 
 # o inicie el servidor y abra la aplicación en una nueva pestaña del navegador
 npm ejecute dev -- --open
-``
+```
 
 ## Compilación
 
