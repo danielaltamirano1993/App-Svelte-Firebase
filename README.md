@@ -55,7 +55,7 @@ npm init svelte
 
 # crear un nuevo proyecto en my-app
 npm init svelte my-app
-``
+```
 
 ## Desarrollo 
 
